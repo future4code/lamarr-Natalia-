@@ -41,19 +41,27 @@ Pelo menos foi o que eu entendi como esse valor de atribuição:
 
 1. 
 
+
+
 let askPetUser = Number(prompt("Quantos bichinhos de estimação você tem?"))
 
-if (petUser ===0){
+if (askPetUser === 0){
    console.log("Que pena! Você pode adotar um pet.")
  } else {
      let petUser = 0
-     let arrayPet = []
-     while (petUser < askPetUser){
-        let petName = prompt("Digite o nome do seu ${petUser +1}º bichinho.")
-        arrayNames.push(petName)
-        petUser+++
-     }
+     let arrayPetName = []
+     while (petUser < askPetUser){     
+        let name = prompt('Digite o nome do seu bichinho.')
+        arrayPetName.push(name)
+        petUser++
+ }
+ console.log(arrayPetName)
+} 
 
-console.log(arrayNames)
 
-}   
+2.
+
+*/
+
+
+
