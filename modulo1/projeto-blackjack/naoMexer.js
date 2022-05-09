@@ -2,7 +2,7 @@
 * NÃO MEXAM NESTE AQUIVO EM HIPÓTESE ALGUMA
 */
 
-function comprarCarta() {
+function buyCard() {
   // Cria array de cartas
   const cartas = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"];
 
@@ -19,17 +19,17 @@ function comprarCarta() {
 
   // Verifica se é uma das letras e coloca o valor correspondente na variável valor
   if (numero === "A") {
-    valor = 11
+    value = 11
   } else if (numero === "J" || numero === "Q" || numero === "K") {
-    valor = 10
+    value = 10
   } else { // Se nao for uma das letras, só converte a string para número
-    valor = Number(numero)
+    value = Number(numero)
   }
 
   // Cria um objeto da carta com as propriedades que vamos precisar: texto e valor
   const carta = {
-    texto: numero + naipe,
-    valor: valor
+    text: numero + naipe,
+    value: value
   }
 
   return carta
