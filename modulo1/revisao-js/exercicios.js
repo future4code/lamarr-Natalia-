@@ -44,7 +44,21 @@ function retornaNPrimeirosPares(n) {
 }
 
 // EXERCÍCIO 09
-function classificaTriangulo(ladoA, ladoB, ladoC) {
+
+{
+
+function sortTriangle(sideA, sideB, sideC) {
+    if ((sideA == sideB) && (sideB == sideC)) {
+        console.log("Equilateral")
+    }
+    if ((sideA == sideB) || (sideB == sideC) || (sideC == sideA)) {
+        console.log("Isosceles") 
+    }
+    else {
+        console.log("Scalene")    }
+
+
+}
 
 }
 
