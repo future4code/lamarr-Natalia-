@@ -15,5 +15,5 @@ Esse é o momento de arrumar o código pro baile, torná-lo bonito, prático, ef
 mas agora também precisa estar apresentável.
 
 
-Os 7 passos são norteadores lógicos, é notável o quando saber para onde se quer ir é relevante para buscar os caminhos. Organizar o caminho, testar as rotas e 
+Os 7 passos são norteadores lógicos, é notável o quanto saber para onde se quer ir é relevante para buscar os caminhos. Organizar o caminho, testar as rotas e 
 aprimorar a viagem para que se chegue ao destino fim da melhor forma possível é a função chave da resolução de problemas. 
