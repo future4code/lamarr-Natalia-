@@ -1,0 +1,19 @@
+
+Os 7 passos fundamentais para a resolução de problemas são:
+
+
+- 1.Atenção ao enunciado, pois nele constam as informações norteadoras;
+- 2.Extrair do enunciando as informações relevantes para a construção do código;
+- 3.Pensar em entradas e saídas para a partir delas conseguir ter noção das ferramentas necessárias;
+- 4.Fazer um esquema visual para facilitar a assimilação das informações de forma holística;
+- 5.Criar um código focando em sua execução prática, ainda que fique feio;
+- 6.Enumerar as possíveis soluções e verificar a(s) que satifaz(em) a necessidade do código, 
+em termos básicos tentar encontrar soluções para resolver o problema(s) de forma massiva.
+- 7.Força Bruta. Volte duas casas...O código funciona, supri as necessidades exigidas, porém não está esteticamente satistório, assim como,
+ os nomes das funções e demais detalhes podem ser reformulados, repensados e aprimorados. 
+Esse é o momento de arrumar o código pro baile, torná-lo bonito, prático, efetivo, afinal, o principal ele já faz, ele funciona, 
+mas agora também precisa estar apresentável.
+
+
+Os 7 passos são norteadores lógicos, é notável o quanto saber para onde se quer ir é relevante para buscar os caminhos. Organizar o caminho, testar as rotas e 
+aprimorar a viagem para que se chegue ao destino fim da melhor forma possível é a função chave da resolução de problemas. 
