@@ -1,0 +1,24 @@
+
+body {
+
+    border: 05px solid black;
+    padding-bottom: 05px;
+    color:black;
+    font-size: 20px
+
+}
+
+p {
+    image-orientation: from-image;
+    font-size: 20px;
+  
+}
+  
+
+footer{
+    padding-bottom: 05px;
+    color:black;
+    font-size: 20px;
+
+}
+    

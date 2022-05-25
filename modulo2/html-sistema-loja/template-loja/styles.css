@@ -1,0 +1,27 @@
+
+
+
+body {
+
+    border: 05px solid black;
+    background-image: url(https://www.ofertaviva.com.br/photo-7/7-pcs-set-metal-poliedrico-dice-rpg-dices-jogo-de-tabuleiro-com-saco-bolsa-para-dungeons-dragons-cobre-ouro-cor-prata.jpg);
+    background-position:  left top;
+    background-repeat: repeat;
+    padding: 15px;
+}
+
+p {
+    image-orientation: from-image;
+    font-size: 25px;
+  
+}
+  
+
+footer{
+    padding-bottom: 05px;
+    color:black;
+    font-size: 25px;
+
+    
+    
+}

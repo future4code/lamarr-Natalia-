@@ -1,0 +1,28 @@
+
+
+
+body {
+
+    border: 05px solid black;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/359/211/783/board-chess-classic-game-wallpaper-preview.jpg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    padding: 15px;
+}
+
+p {
+    image-orientation: from-image;
+    font-size: 25px;
+  
+}
+  
+
+footer{
+    padding-bottom: 05px;
+    color:black;
+    font-size: 25px;
+
+    
+    
+}
+
