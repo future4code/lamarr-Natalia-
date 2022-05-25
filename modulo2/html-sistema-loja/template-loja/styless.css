@@ -4,11 +4,14 @@
 body {
 
     border: 05px solid black;
-    background-image: url();
-    background-position: center;
+    background-image: url(http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRvzc9xwSazsrN5aUVnX9gV2yjrlfU9PAIICQP7EACtKms_dMkEDVlqGgbKc_seAtW0ydd7XN3JaIY_UYlhAX0);
+    background-position: left center;
     background-repeat: repeat;
     background-size: 1820px 720px;
 }
+
+
+
 
 p {
     image-orientation: from-image;
