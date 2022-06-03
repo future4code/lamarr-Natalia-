@@ -1,0 +1,113 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: mediumvioletred;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header > div {
+    display: flex;
+    align-items: center;
+}
+
+header img {
+    width: 20px;
+    padding: 10px;
+}
+
+header > button {
+    margin-right: 10px;
+    padding: 0 10px;
+    border-radius: 0px;
+}
+
+footer {
+    background-color: mediumvioletred;
+    display: flex;
+    justify-content: center;
+    height: 45px;
+    border: 1px solid black;
+    align-items: center;
+}
+
+body main div p {
+    font-size: 15px;
+}
+
+main {
+    display: flex;
+
+}
+nav {
+    background-color: #f2d0e0;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 270px;
+
+}
+
+nav div {
+    display: flex;
+}
+nav > div > p {
+padding-right: 100px;
+}
+
+nav img {
+    width: 20px;
+    margin-right: 10px;
+
+}
+
+nav .botao {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao img {
+    height: 20px;
+}
+.flecha {
+    padding-top: 10px;
+}
+.icone-texto {
+    display: flex;
+    padding: 10px 0;
+}
+
+.espaco-simbolo {
+    padding-left: 0.4vw;
+}
+
+
+
+.card-body{
+
+    box-shadow: 2px 2px 2px 0px darkgray;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    width: 240px;
+    display: inline-grid;
+    text-align: center;
+    image-orientation: center;
+
+
+ 
+
+    
+    
+  }
+
+
+
+
+
+
+
