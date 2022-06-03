@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: orange;
+    padding: 30px 40px 30px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+body > h2{
+    padding: 20px;
+    text-align: left;
+}
+
+#busca{
+    width: 120px;
+}
+
+main{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    row-gap: 20px;
+    column-gap: 20px;
+    padding-top: 30px;
+}
+
+video{
+    padding-left: 55%;
+    width: 600px;
+}
+
+.img-capa {
+    width: 250px;
+    height: 150px;
+}
+
+.card {
+    text-align: left;
+    padding: initial;
+    display: inline-grid;
+    margin: 10px 10px 10px 10px;
+    height: 200px;
+    width: 250px;
+    border: 1px solid rgb(23, 119, 23);
+
+}
+
+.footer{
+    background-color: #454545;
+    color: white;
+    padding: 20px 0px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-size-adjust: 9px;
+    bottom: 0px;
+    width: 100vw;
+
+}
+
+@media screen and (max-device-width : 800px){
+    
+    main{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+    .footer{
+        background-color: #454545;
+        color: white;
+        padding: 20px 0px;
+        position: absolute;
+        bottom: 0px;
+        width: 100%;
+        text-size-adjust: 9px;
+        bottom: 0px;
+        width: 100vw;
+    
+    }
+
+}
